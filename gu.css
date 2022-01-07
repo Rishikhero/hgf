@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    text-align: center
+}
+h1{
+    color: darkorange
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+address{
+    color:red;
+    text-align: right;
+}
+#ds{
+    color: red
+}
